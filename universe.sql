@@ -125,7 +125,7 @@ INSERT INTO public.galaxy VALUES (2, 'Galto', 53720, 'P-08', '1992-08-01');
 INSERT INTO public.galaxy VALUES (3, 'Tras', 47495, 'RR-0039', '1933-01-02');
 INSERT INTO public.galaxy VALUES (4, 'Ulite', 60375, 'TRAIL-9', '1989-02-27');
 INSERT INTO public.galaxy VALUES (5, 'Halard', 19050, 'QR-4', '1940-04-11');
-INSERT INTO public.galaxy VALUES (6, 'Crilos', 31284, 'XZ-27', '2001-12-13');
+INSERT INTO public.galaxy VALUES (6, 'Crilos', 31284, 'RINSE-5', '2001-12-13');
 
 
 --
